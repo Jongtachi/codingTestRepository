@@ -3,7 +3,7 @@ package src.section1_String;
 import java.util.Scanner;
 
 
-public class P12_Password {
+public class S1_P12_Password {
     /*12. 암호*/
     public static String solution(String str1, String str2){
         String answer ="";

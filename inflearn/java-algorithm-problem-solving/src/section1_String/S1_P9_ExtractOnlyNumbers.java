@@ -3,7 +3,7 @@ package src.section1_String;
 import java.util.Scanner;
 
 
-public class P9_ExtractOnlyNumbers {
+public class S1_P9_ExtractOnlyNumbers {
     /*9. 숫자만 추출*/
     public static String solution(String str){
         String answer ="";

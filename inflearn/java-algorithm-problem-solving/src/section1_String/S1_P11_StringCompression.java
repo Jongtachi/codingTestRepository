@@ -3,7 +3,7 @@ package src.section1_String;
 import java.util.Scanner;
 
 
-public class P11_StringCompression {
+public class S1_P11_StringCompression {
     /*11. 문자열 압축*/
 //    public static String solution(String str){
 //        String answer = "";

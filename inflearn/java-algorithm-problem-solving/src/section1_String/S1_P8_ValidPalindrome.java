@@ -3,7 +3,7 @@ package src.section1_String;
 import java.util.Scanner;
 
 
-public class P8_ValidPalindrome {
+public class S1_P8_ValidPalindrome {
     /*팰린드롬: 앞에서 읽을 때나 뒤에서 읽을 때나 같은 문자열*/
     public static String solution(String str){
         String answer = "NO";

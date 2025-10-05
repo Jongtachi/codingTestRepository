@@ -1,10 +1,9 @@
 package src.section1_String;
 
-import java.util.Map;
 import java.util.Scanner;
 
 
-public class P10_ShortestTextDistance {
+public class S1_P10_ShortestTextDistance {
     /*10. 가장 짧은 문자거리*/
     public static int[] solution(String str1, String str2){
         int[] answer = new int[str1.length()];

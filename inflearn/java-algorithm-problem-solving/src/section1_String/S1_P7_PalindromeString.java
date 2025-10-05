@@ -1,11 +1,9 @@
 package src.section1_String;
 
-import java.util.HashSet;
 import java.util.Scanner;
-import java.util.Set;
 
 
-public class P7_PalindromeString {
+public class S1_P7_PalindromeString {
     /*회문문자열: 앞에서 읽을 때나 뒤에서 읽을 때나 같은 문자열*/
     public static String solution(String str){
         StringBuilder stringBuildered = new StringBuilder(str);

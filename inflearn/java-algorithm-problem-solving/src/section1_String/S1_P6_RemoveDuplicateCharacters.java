@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.HashSet;
 
 
-public class P6_RemoveDuplicateCharacters {
+public class S1_P6_RemoveDuplicateCharacters {
     /*중복문자제거*/
     // 선생님 답
     public static String solution(String str){

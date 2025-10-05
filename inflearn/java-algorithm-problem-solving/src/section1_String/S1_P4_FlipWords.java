@@ -2,7 +2,7 @@ package src.section1_String;
 
 import java.util.Scanner;
 
-public class P4_FlipWords {
+public class S1_P4_FlipWords {
     /*단어 뒤집기*/
     // 내가 쓴 답
     public static void main(String[] args) {

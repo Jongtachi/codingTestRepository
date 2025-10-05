@@ -2,7 +2,7 @@ package src.section1_String;
 
 import java.util.Scanner;
 
-public class P5_FlipSpecificCharacters {
+public class S1_P5_FlipSpecificCharacters {
     /*특정문자뒤집기*/
     // 선생님 답
     public static String solution(String str){
